@@ -32,6 +32,6 @@ would be a nice to do thing.
 2. Best practices. Design/Styling/CSS is not critical; functionality is.
 3. Define rules for validation.
 4. Use of upcoming JS frameworks like Vue/React
-5. Use Docker / ASP.NET Core.
+5. Use Docker / ASP.NET Core./Web API
 
 
